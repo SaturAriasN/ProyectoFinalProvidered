@@ -1,0 +1,190 @@
+[
+  {
+    "id": 58,
+    "name": "Samsung S23",
+    "slug": "samsung-s23",
+    "permalink": "https:\/\/providered.es\/producto\/samsung-s23\/",
+    "date_created": "2024-04-21T07:14:40",
+    "date_created_gmt": "2024-04-21T07:14:40",
+    "date_modified": "2024-04-21T07:14:40",
+    "date_modified_gmt": "2024-04-21T07:14:40",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "650",
+    "regular_price": "650",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": true,
+    "stock_quantity": 10,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 16,
+        "name": "Movil",
+        "slug": "movil"
+      }
+    ],
+    "tags": [],
+    "images": [],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>650,00&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;<\/span><\/bdi><\/span>",
+    "related_ids": [
+      57
+    ],
+    "meta_data": [],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/providered.es\/wp-json\/wc\/v3\/products\/58"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/providered.es\/wp-json\/wc\/v3\/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "name": "Samsung S24",
+    "slug": "samsung-s24",
+    "permalink": "https:\/\/providered.es\/producto\/samsung-s24\/",
+    "date_created": "2024-04-21T07:13:47",
+    "date_created_gmt": "2024-04-21T07:13:47",
+    "date_modified": "2024-04-21T07:14:53",
+    "date_modified_gmt": "2024-04-21T07:14:53",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "750",
+    "regular_price": "750",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": true,
+    "stock_quantity": 10,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 16,
+        "name": "Movil",
+        "slug": "movil"
+      }
+    ],
+    "tags": [],
+    "images": [],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>750,00&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;<\/span><\/bdi><\/span>",
+    "related_ids": [
+      58
+    ],
+    "meta_data": [],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/providered.es\/wp-json\/wc\/v3\/products\/57"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/providered.es\/wp-json\/wc\/v3\/products"
+        }
+      ]
+    }
+  }
+]

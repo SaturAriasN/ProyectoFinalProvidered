@@ -1,0 +1,34 @@
+Pantallas
+
+-Login
+-Home
+    - Muestra las categorias de productos
+
+- Listado de productos por categoria
+- Detalle de productos
+- Listado de proveedores
+- Perfil
+- Modo admin (Generar informes)
+
+- Añadir categorias
+- Añadir productos
+- Modificar productos
+- Cerrar sesion
+
+
+
+----------------------------------------------------------
+- Login
+- Main
+    - Perfil
+    - Listado de categorias
+    - Proveedores
+    - Generar informes
+    - Ajustes
+    - Cerrar sesion
+
+
+- Menu inferior
+    - Añadir categorias
+    - Añadir productos
+    - Añadir proveedores
